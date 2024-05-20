@@ -11,6 +11,7 @@ const App = () => {
         <Card rank={'Q'} suit={'clubs'}/>
         <Card rank={'Q'} suit={'hearts'}/>
         <Card rank={'3'} suit={'hearts'}/>
+        <Card rank={'5'} suit={'spades'}/>
       </div>
     </>
   );
